@@ -14,7 +14,7 @@
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $name = $_REQUEST["fname"];
         if (empty($name)) {
-            echo "Name is empty";
+            echo "Name is khali";
         } else {
             echo $name;
         }
