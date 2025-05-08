@@ -1,0 +1,3 @@
+<?php
+
+mkdir("abc");
